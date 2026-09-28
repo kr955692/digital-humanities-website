@@ -18,7 +18,7 @@ title: Kristy Garthwaite - Academic Portfolio
 
 I am an educator, scholar, and adjunct professor with more than a decade of experience teaching English language arts and literature. My academic interests bring together literature, rhetoric, technology, and digital culture.
 
-I am currently pursuing a **PhD in Texts & Technology at the University of Central Florida**, with a focus on Digital Humanities.
+I am currently pursuing a PhD in Texts & Technology at the University of Central Florida, with a focus on Digital Humanities.
 
 ---
 
