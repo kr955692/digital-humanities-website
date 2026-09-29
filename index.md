@@ -1,8 +1,7 @@
 ---
-
 layout: default
 title: Kristy Garthwaite - Academic Portfolio
----------------------------------------------
+---
 
 ![Featured Image](assets/featured-image.jpg)
 
