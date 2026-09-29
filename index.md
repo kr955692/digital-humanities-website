@@ -1,7 +1,8 @@
 ---
+
 layout: default
 title: Kristy Garthwaite - Academic Portfolio
----
+---------------------------------------------
 
 ![Featured Image](assets/featured-image.jpg)
 
@@ -9,7 +10,7 @@ title: Kristy Garthwaite - Academic Portfolio
 
 ## Educator • Scholar • Digital Humanities
 
-**PhD Student in Texts & Technology | University of Central Florida**
+*PhD Student in Texts & Technology | University of Central Florida*
 
 ---
 
@@ -17,7 +18,7 @@ title: Kristy Garthwaite - Academic Portfolio
 
 I am an educator, scholar, and adjunct professor with more than a decade of experience teaching English language arts and literature. My academic interests bring together literature, rhetoric, technology, and digital culture.
 
-I am currently pursuing a PhD in Texts & Technology at the University of Central Florida, with a focus on Digital Humanities.
+I am currently pursuing a **PhD in Texts & Technology at the University of Central Florida**, with a focus on Digital Humanities.
 
 ---
 
@@ -58,20 +59,23 @@ I lead curriculum development, mentor educators, support professional developmen
 
 ## ✦ Education
 
-**University of Central Florida**
-PhD, Texts & Technology — *In Progress*
+### University of Central Florida
 
-**University of West Florida**
-M.A., English | 2022–2025
+**PhD, Texts & Technology — In Progress**
 
-**University of Central Florida**
-B.A., English Literature | 2009–2011
+### University of West Florida
+
+**M.A., English | 2022–2025**
+
+### University of Central Florida
+
+**B.A., English Literature | 2009–2011**
 
 ---
 
 ## ✦ Academic & Professional Interests
 
-My work explores the intersections of literature, technology, rhetoric, and digital culture. I am particularly interested in how emerging digital forms shape narrative, literacy, audience engagement, and our understanding of texts.
+My work explores the intersections of **literature, technology, rhetoric, and digital culture**. I am particularly interested in how emerging digital forms shape narrative, literacy, audience engagement, and our understanding of texts.
 
 ---
 
