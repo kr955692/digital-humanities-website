@@ -9,7 +9,7 @@ title: Kristy Garthwaite - Academic Portfolio
 
 ## Educator • Scholar • Digital Humanities
 
-*PhD Student in Texts & Technology | University of Central Florida*
+**PhD Student in Texts & Technology | University of Central Florida**
 
 ---
 
@@ -38,19 +38,19 @@ I am currently pursuing a PhD in Texts & Technology at the University of Central
 
 ### University of West Florida
 
-**Adjunct Professor | 2024–Present**
+**Adjunct Professor | 2024 - Present**
 
 I teach undergraduate composition courses and develop multimodal, technology-supported approaches to writing, rhetorical analysis, and digital literacy.
 
 ### Daytona State College
 
-**Adjunct Professor | 2025–Present**
+**Adjunct Professor | 2025 - Present**
 
 I teach undergraduate composition and literature courses with an emphasis on literary analysis, rhetoric, and multimodal learning.
 
 ### Volusia County Schools
 
-**Department Chair & English Teacher | 2013–Present**
+**Department Chair & English Teacher | 2013 - Present**
 
 I lead curriculum development, mentor educators, support professional development, and teach English language arts.
 
