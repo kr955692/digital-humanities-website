@@ -74,7 +74,7 @@ I lead curriculum development, mentor educators, support professional developmen
 
 ## ✦ Academic & Professional Interests
 
-My work explores the intersections of **literature, technology, rhetoric, and digital culture**. I am particularly interested in how emerging digital forms shape narrative, literacy, audience engagement, and our understanding of texts.
+My work explores the intersections of literature, technology, rhetoric, and digital culture. I am particularly interested in how emerging digital forms shape narrative, literacy, audience engagement, and our understanding of texts.
 
 ---
 
