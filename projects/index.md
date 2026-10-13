@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projects
+---
+
 # Projects
 
 My academic work explores the intersections of literature, rhetoric, technology, and digital culture. This page highlights developing research interests and digital projects connected to my teaching and doctoral studies.
