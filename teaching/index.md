@@ -39,3 +39,5 @@ My teaching practice brings together rhetorical analysis, literary interpretatio
 - Literary Analysis and Critical Theory
 - Online Course Design
 - Research and Information Literacy
+
+
