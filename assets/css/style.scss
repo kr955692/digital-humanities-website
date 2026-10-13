@@ -1,0 +1,30 @@
+
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Portfolio customizations */
+
+header {
+  background: #343A36;
+}
+
+header a.button {
+  background: #7D927F;
+}
+
+aside a.button {
+  background: #536B58;
+}
+
+#main-content h1:before,
+#main-content h2:before {
+  color: #A3B8A4;
+}
+
+#main-content h3,
+#main-content h4,
+#main-content h6 {
+  color: #536B58;
+}
