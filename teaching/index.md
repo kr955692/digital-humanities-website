@@ -4,8 +4,6 @@ layout: default
 title: Teaching Experience
 ---
 
-# Teaching Experience
-
 My teaching practice brings together rhetorical analysis, literary interpretation, research, and multimodal composition. I design learning experiences that encourage students to become critical readers, effective writers, thoughtful researchers, and reflective communicators.
 
 ## University of West Florida
@@ -39,5 +37,4 @@ My teaching practice brings together rhetorical analysis, literary interpretatio
 - Literary Analysis and Critical Theory
 - Online Course Design
 - Research and Information Literacy
-
 
