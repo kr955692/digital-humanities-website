@@ -1,0 +1,21 @@
+<div class="inner">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+    </div>
+  </header>
+
+  <div id="content-wrapper">
+    <div class="inner clearfix">
+      <section id="main-content">
+        {{ content }}
+      </section>
+
+      <aside id="sidebar">
+        <a href="{{ '/' | relative_url }}" class="button">Home</a>
+        <a href="{{ '/teaching/' | relative_url }}" class="button">Teaching</a>
+        <a href="{{ '/projects/' | relative_url }}" class="button">Projects</a>
+      </aside>
+    </div>
+  </div>
+</body>
+</html>
