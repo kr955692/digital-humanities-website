@@ -10,7 +10,7 @@ My teaching practice brings together rhetorical analysis, literary interpretatio
 
 ## University of West Florida
 
-**Adjunct Professor | 2024–Present**
+<strong>Adjunct Professor | 2024–Present</strong>
 
 - Teach first-year composition, including ENC 1101 and ENC 1102.
 - Develop instruction in rhetorical analysis, academic research, source evaluation, and multimodal literacy.
@@ -18,7 +18,7 @@ My teaching practice brings together rhetorical analysis, literary interpretatio
 
 ## Daytona State College
 
-**Adjunct Professor | 2025–Present**
+<strong>Adjunct Professor | 2025–Present</strong>
 
 - Teach Introduction to Literature (LIT 2000).
 - Develop thematic approaches to literary study, including apocalypse, speculative futures, and representations of social and ethical questions.
@@ -26,7 +26,7 @@ My teaching practice brings together rhetorical analysis, literary interpretatio
 
 ## Volusia County Schools
 
-**English Language Arts Teacher and Department Chair | 2013–Present**
+<strong>English Language Arts Teacher and Department Chair | 2013–Present</strong>
 
 - Teach secondary English Language Arts and support curriculum development.
 - Lead departmental collaboration, instructional planning, and assessment practices.
