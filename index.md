@@ -34,7 +34,7 @@ I am currently pursuing a PhD in Texts & Technology at the University of Central
 
 ---
 
-## Theoretical Group Hang
+## ✦ Theoretical Group Hang
 
 - Lev Manovich
 - J. David Bolter
