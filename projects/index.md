@@ -62,6 +62,15 @@ As a PhD student in Texts and Technology at the University of Central Florida, I
 - <strong>Digital Literacy & Rhetoric:</strong> How people compose, interpret, and circulate meaning across digital environments.
 - <strong>Literature, Adaptation & the Anthropocene:</strong> How literary and screen-based narratives represent ecological crisis, transformation, and uncertain futures.
 - <strong>Digital Humanities Methods:</strong> How digital tools and research methods can support new approaches to humanities questions.
+- <strong>Recursive Nature of Technology:</strong> Exploring the feedback loops between technological systems, human practices, and cultural production, including how technologies shape the conditions of their own use and interpretation.
+- <strong>Digitization of Identity:</strong> Examining how identity is represented, translated, and reconstructed through digital platforms, interfaces, profiles, and networked forms of participation.
+- <strong>Digital Identity & the Mediation of Identity:</strong> Investigating how digital environments mediate self-presentation, social relationships, and identity formation, particularly through the interaction between individual agency, platform structures, and audience expectations.
+- <strong>Destabilization of Classical Boundaries:</strong> Exploring how digital culture unsettles established distinctions between human and machine, physical and virtual, original and adaptation, creator and audience, and private and public.
+- <strong>TikTok as a Site for Exploring Contemporary Technological Systems:</strong> Considering TikTok as a space for examining algorithmic visibility, fragmented and nonlinear storytelling, participatory culture, audience engagement, and the relationship between platform design and cultural meaning-making.
+- <strong>Digital Ecology:</strong> Investigating the relationships among digital technologies, cultural systems, material infrastructures, and ecological conditions. This interest also considers how digital media shape our understandings of environmental change, interconnectedness, and the Anthropocene.
+- <strong>Posthuman Digitality:</strong> Exploring how digital technologies challenge human-centered assumptions about agency, embodiment, subjectivity, and the relationship between humans and nonhuman systems.
+- <strong>Aestheticism & Digital Culture:</strong> Examining how digital platforms shape aesthetic experience, visual expression, narrative form, and the circulation of cultural objects, including the relationship between platform affordances and creative practice.
+
 
 
 ---
