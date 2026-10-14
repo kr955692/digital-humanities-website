@@ -42,6 +42,8 @@ I am currently pursuing a PhD in Texts & Technology at the University of Central
 - Michel de Certeau
 - Roland Barthes
 - Ian Bogost
+- Wendy Hui Kyong Chun
+- Tressie McMillan Cottom
 
 ---
 
