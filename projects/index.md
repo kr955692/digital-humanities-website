@@ -58,14 +58,11 @@ This work informs my continuing interests in adaptation studies, environmental h
 
 As a PhD student in Texts and Technology at the University of Central Florida, I am developing research interests at the intersection of literature, technology, digital culture, and rhetoric and composition.
 
-Current areas of inquiry include:
-
 - <strong>Digital Narratives:</strong> Nonlinear, fragmented, and participatory storytelling across digital platforms.
 - <strong>Digital Literacy & Rhetoric:</strong> How people compose, interpret, and circulate meaning across digital environments.
 - <strong>Literature, Adaptation & the Anthropocene:</strong> How literary and screen-based narratives represent ecological crisis, transformation, and uncertain futures.
 - <strong>Digital Humanities Methods:</strong> How digital tools and research methods can support new approaches to humanities questions.
 
-These are developing areas of inquiry rather than completed research projects. As my doctoral work progresses, this portfolio will grow to document new projects, methods, and scholarly presentations.
 
 ---
 
