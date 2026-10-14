@@ -4,93 +4,59 @@
 
 @import "jekyll-theme-architect";
 
-/* Portfolio customizations */
-body {
-  background: #f4f1eb;
-  color: #1f2b24;
-}
+/* ========================================
+   Custom Academic Portfolio Styles
+   Architect Theme
+   ======================================== */
 
+/* Main header */
 header {
-  background: linear-gradient(135deg, #343a36 0%, #536b58 100%);
-  border-bottom: 4px solid #a3b8a4;
+  background-color: #343A36;
+  background-image: none;
+  border-bottom-color: #536B58;
 }
 
-header a,
-#sidebar a,
-#main-content a {
-  color: #536b58;
+/* Header buttons */
+header a.button {
+  background-color: #7D927F;
+  background-image: none;
 }
 
-header a:hover,
-#sidebar a:hover,
-#main-content a:hover {
-  color: #7d927f;
+/* Sidebar navigation buttons */
+aside#sidebar a.button,
+aside a.button {
+  background-color: #536B58;
+  background-image: none;
+  border-radius: 5px;
 }
 
-header a.button,
-#sidebar a.button {
-  background: #7d927f;
-  border: none;
-  color: #ffffff;
-  box-shadow: 0 2px 8px rgba(52, 58, 54, 0.2);
+/* Link colors */
+a {
+  color: #536B58;
 }
 
-header a.button:hover,
-#sidebar a.button:hover {
-  background: #536b58;
-  color: #ffffff;
+a:hover {
+  color: #343A36;
 }
 
-#content-wrapper {
-  background: #f4f1eb;
-}
-
-#main-content {
-  color: #1f2b24;
-}
-
-#main-content h1,
-#main-content h2,
-#main-content h3,
-#main-content h4,
-#main-content h5,
-#main-content h6 {
-  color: #2d3f31;
-}
-
+/* Heading accent marks */
 #main-content h1:before,
-#main-content h2:before {
-  content: "✦ ";
-  color: #a3b8a4;
+#main-content h2:before,
+#main-content h3:before,
+#main-content h4:before,
+#main-content h5:before,
+#main-content h6:before {
+  color: #A3B8A4;
 }
 
+/* Heading colors */
 #main-content h3,
 #main-content h4,
 #main-content h6 {
-  color: #536b58;
+  color: #536B58;
 }
 
-#sidebar {
-  background: rgba(255, 255, 255, 0.25);
-  border-left: 3px solid #a3b8a4;
-  padding: 1.25rem;
+/* Keep navigation buttons readable */
+aside#sidebar a.button {
+  color: #FFFFFF;
 }
-
-#sidebar .button {
-  background: #536b58;
-}
-
-#sidebar .button:hover {
-  background: #7d927f;
-}
-
-blockquote,
-pre,
-code {
-  background: #edf1eb;
-}
-
-hr {
-  border-top: 2px solid #d5ddd4;
-}
-
