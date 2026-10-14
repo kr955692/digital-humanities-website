@@ -23,14 +23,25 @@ I am currently pursuing a PhD in Texts & Technology at the University of Central
 
 ## ✦ Research Interests
 
-* Digital Humanities
-* Rhetoric & Composition
-* Literature & Technology
-* Adaptation Studies
-* Digital Narratives
-* Multimodal Literacy
-* Digital Culture
-* Literature and the Anthropocene
+- Digital Humanities
+- Rhetoric & Composition
+- Digital Narratives & Platform Culture
+- Digital Identity & Mediation
+- Adaptation Studies & Intermediality
+- Multimodal Literacy & Digital Aesthetics
+- Posthumanism & Technological Systems
+- Digital Ecology & the Anthropocene
+
+---
+
+## Theoretical Group Hang
+
+- Lev Manovich
+- J. David Bolter
+- Janet H. Murray
+- Michel de Certeau
+- Roland Barthes
+- Ian Bogost
 
 ---
 
