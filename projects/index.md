@@ -7,25 +7,23 @@ title: Projects
 
 My professional and scholarly work brings together curriculum design, literary studies, rhetoric and composition, and emerging interests in Digital Humanities. Through secondary and postsecondary teaching, I have developed instructional materials, contributed to curriculum planning, presented professional development sessions, and pursued research examining literature, adaptation, and cultural representations of transformation.
 
-This page highlights selected professional projects, scholarly presentations, and developing areas of research.
+This page highlights some of my selected professional projects, scholarly presentations, and developing areas of research.
 
 ---
 
 ## Curriculum Mapping & Instructional Alignment
 
-My work in curriculum mapping connects instructional goals, curricular expectations, and classroom practice. I contributed to curriculum mapping for Volusia County School District during 2021–2023 and again in 2025. I also served on the district's Textbook Adoption Committee during 2020–2021 and 2025–2026.
+My work in curriculum mapping connects instructional goals, curricular expectations, and classroom practice. I contributed to curriculum mapping for Volusia County School District during 2021–2023 and again in 2025. .
 
 These experiences reflect my interest in how educational materials, curricular structures, and instructional decisions shape students' learning experiences.
 
 <strong>Selected experience</strong>
 - Curriculum Mapping, Volusia County School District (2021–2023, 2025)
-- Textbook Adoption Committee, Volusia County Schools (2020–2021, 2025–2026)
+- Textbook Adoption Committee, Volusia County Schools (2020–2021)
 
 ## Curriculum Design & Instructional Development
 
 My instructional design work focuses on creating purposeful learning experiences that support critical thinking, student engagement, rhetorical awareness, and analytical writing. Across secondary and postsecondary settings, I develop instructional materials and scaffolded assignments that guide students through increasingly complex reading, writing, and research tasks.
-
-Areas of work include:
 
 - <strong>Composition and Rhetoric:</strong> Rhetorical analysis, research literacy, source evaluation, revision, and writing for different audiences and purposes.
 - <strong>Literary Studies:</strong> Thematic units that connect close reading and literary analysis with historical, cultural, and philosophical contexts.
