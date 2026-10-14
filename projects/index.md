@@ -17,7 +17,6 @@ My work in curriculum mapping connects instructional goals, curricular expectati
 
 These experiences reflect my interest in how educational materials, curricular structures, and instructional decisions shape students' learning experiences.
 
-<strong>Selected experience</strong>
 - Curriculum Mapping, Volusia County School District (2021–2023, 2025)
 - Textbook Adoption Committee, Volusia County Schools (2020–2021)
 
