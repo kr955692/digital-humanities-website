@@ -9,7 +9,7 @@ title: Kristy Garthwaite - Academic Portfolio
 
 ## Educator • Scholar • Digital Humanities
 
-**PhD Student in Texts & Technology | University of Central Florida**
+<strong>PhD Student in Texts & Technology | University of Central Florida</strong>
 
 ---
 
@@ -38,19 +38,19 @@ I am currently pursuing a PhD in Texts & Technology at the University of Central
 
 ### University of West Florida
 
-**Adjunct Professor | 2024–Present**
+<strong>Adjunct Professor | 2024–Present</strong>
 
 I teach undergraduate composition courses and develop multimodal, technology-supported approaches to writing, rhetorical analysis, and digital literacy.
 
 ### Daytona State College
 
-**Adjunct Professor | 2025–Present**
+<strong>Adjunct Professor | 2025–Present</strong>
 
 I teach undergraduate composition and literature courses with an emphasis on literary analysis, rhetoric, and multimodal learning.
 
 ### Volusia County Schools
 
-**Department Chair & English Teacher | 2013–Present**
+<strong>Department Chair & English Teacher | 2013–Present</strong>
 
 I lead curriculum development, mentor educators, support professional development, and teach English language arts.
 
@@ -60,15 +60,15 @@ I lead curriculum development, mentor educators, support professional developmen
 
 ### University of Central Florida
 
-**PhD, Texts & Technology — In Progress**
+<strong>PhD, Texts & Technology — In Progress</strong>
 
 ### University of West Florida
 
-**M.A., English | 2022–2025**
+<strong>M.A., English | 2022–2025</strong>
 
 ### University of Central Florida
 
-**B.A., English Literature | 2009–2011**
+<strong>B.A., English Literature | 2009–2011</strong>
 
 ---
 
@@ -90,6 +90,6 @@ My work explores the intersections of literature, technology, rhetoric, and digi
 
 ## ✦ Connect
 
-**Email:** [kr955692@ucf.edu](mailto:kr955692@ucf.edu)
+<strong>Email:</strong> [kr955692@ucf.edu](mailto:kr955692@ucf.edu)
 
-**GitHub:** [kr955692](https://github.com/kr955692)
+<strong>GitHub:</strong> [kr955692](https://github.com/kr955692)
